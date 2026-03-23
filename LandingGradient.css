@@ -159,17 +159,17 @@ html, body {
  background-position: center center;
 }
 #landing .line-break-1 {
- background: linear-gradient(60deg, #008000, #5cb85c, #ffffff);
+ background: linear-gradient(60deg, black, gray, white);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break-2 {
- background: linear-gradient(60deg, #008000, #ff4d4d, #ffffff);
+ background: linear-gradient(60deg, black, gray, white);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break-3 {
- background: linear-gradient(60deg, #008000, #4a69bd, #ffffff);
+ background: linear-gradient(60deg, black, gray, white);
  width: 100%;
  margin: 0 auto;
 }
